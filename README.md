@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @woidveit02
 - 🔍 I’m a Media Informatics and Information Science student at Regensburg University
-- ⌨️ My primary languages i code most of my projects in are Java and Python
+- 👨‍🏫 I also work for my university as a tutor, teaching coding using Python, Java and Scala
+- ⌨️ My primary languages i code most of my projects in are also Java and Python
 - 🌱 I also have little experience with various other languages and tools
 - 🎁 A few of these are C/C++, C#, SQL, CSS, XML, HTML, Prolog or R
 - 👀 Most of my projects are related to university, but some are also the product of my own boredom
